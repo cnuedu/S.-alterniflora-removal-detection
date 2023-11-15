@@ -2,7 +2,7 @@
 S.-alterniflora-removal-detection
 1. we proposed an automated method based on Google earth engine for rapid detection of S. alterniflora removal timing and status (removal/no removal) in coastal wetlands by integrating time-series Landsat 8 and Sentinel-2 imagery.
 
-2. Results in Shandong and Fujian
+2. Demonstration of results in Shandong and Fujian
 
 ![image](https://github.com/GISermyk/S.-alterniflora-removal-detection/assets/92797972/e621ecbd-4cc7-476a-886b-b9771e806cdb)
 
